@@ -12,14 +12,14 @@
     Program runs without error.
 */
 /*
-function calNum(num1, num2, num3){
+function calcAvgSquare(num1, num2, num3){
   return (((parseInt(num1) + parseInt(num2) + parseInt(num3))/3) * (parseInt(num1)**2))
 }
 
 var number1 = prompt("Please enter the first number.")
 var number2 = prompt("Please enter the second number.")
 var number3 = prompt("Please enter the third number.")
-calTotal= calNum(number1, number2, number3)
+calTotal= calcAvgSquare(number1, number2, number3)
 
 alert(`The answer is ${calTotal}`)
 */

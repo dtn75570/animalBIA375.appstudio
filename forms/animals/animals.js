@@ -15,10 +15,11 @@
     Code is all commented out. 
     Program runs without error.
 */
-var myAnimals = ["dog", "cat", "horse", "meerkat"]
+/*var myAnimals = ["dog", "cat", "horse", "meerkat"]
 
 var inptAnimals = prompt("Please input the name of the animal.")
 var lowerCaseAnimals = inptAnimals.toLowerCase()
 myAnimals.push(lowerCaseAnimals)
 var outputAnimals = myAnimals[myAnimals.length -1]
 alert(`The last animal is a/an ${outputAnimals}`)
+*/

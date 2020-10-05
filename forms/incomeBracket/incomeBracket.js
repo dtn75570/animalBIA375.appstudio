@@ -1,4 +1,4 @@
-let incomeValue = ""
+/*let incomeValue = ""
 
 btnSubmit.onclick= function(){
 incomeValue = inptIncome.value
@@ -16,3 +16,4 @@ inptIncome.value = ""
 lblTax.value = ""
 }
 
+*/
